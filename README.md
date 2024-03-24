@@ -1,4 +1,4 @@
-# Next.js 14 Project Template - App Router and Server Actions
+# Next.js 14 Project Template with Built-In Authentication - App Router and Server Actions
 
 This is a template for kickstarting Next.js 14 projects with built-in authentication using NextAuth.
 
